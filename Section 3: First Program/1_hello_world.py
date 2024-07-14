@@ -1,0 +1,5 @@
+print('hello world check evrey thing')
+print('my name is murari')
+print(5+7)
+print(789)
+print(True)
